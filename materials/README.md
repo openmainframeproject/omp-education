@@ -1,3 +1,3 @@
 # Materials
 
-Hello World!
+Hello World
