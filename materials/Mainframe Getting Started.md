@@ -18,6 +18,14 @@ Now that you learned that Mainframe is behind most of our daily transaction, bus
 - Finally let`s walkthru Mainframe. In this Virtual tour you can reach the mainframe machine, open doors, remove swtches and understand how Mainframe Hardware looks like today.
 http://m.kaon.com/c/ib
 
+##Mainframe
+In the past, the term Mainframe was synonymous with the hardware (S360/370/390 chips) and software (MVS, VM, VSE).  However, nowadays, term mainframe now has a more complex meaning.  
+The term Mainframe must be divided into two meanings.  (1) the hardware (Z-Series chip) and (2) the operating systems supported by the Z-Series chip (Z/VM, Z/OS, Z/VSE, Linux).  
+###1. Mainframe Hardware:  
+Z-Series CPU chips.  Supports Z/VM, Z/OS, Z/VSE, Linux operating systems, and open source software.  Also supports Hybrid Cloud technology.  Mainframe hardware includes outboard I/O and encryption CPUs, Hyper Channels, redundant power supplies, and resilience.
+###2. Mainframe Software:  
+Z-Series software – this software is what is traditionally referred to as VM, z/VM, MVS, MVS/XA, MVS/ESA, z/OS, VSE or z/VSE.  These operating systems have evolved and used over the last 50 years.  Mainframe software has evolved from a purely batch oriented system using only JCL to incorporating real time interfaces and Unix System Service.  Mainframe software has progressed to being compatible to distributed systems, the most notable innovating being ZOWE.  
+
 # Mainframe and Digital Transformation
 Mainframe is committed with the innovation to bring the best infrastructure enabling the best user experience. 
 - Data Integration
