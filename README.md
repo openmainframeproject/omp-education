@@ -26,41 +26,54 @@ One of the following:
 * GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
 
 ###Steps to Fork and Clone repository:
-1. You've made it to the GitHub repository! Find and **select** the `Fork` button at the top. This will allow you to create your own copy of the MOE repository to save your work in. _Note:_ You will need to be signed in to GitHub to complete these steps.![Fork the repository.](images/Fork.png)
+1. You've made it to the GitHub repository! Find and **select** the *Fork* button at the top. This will allow you to create your own copy of the MOE repository to save your work in. _Note:_ You will need to be signed in to GitHub to complete these steps.![Fork the repository.](images/Fork.png)
 
 2. From the pop-up, **select** your repository (you might only have one).![Select your repository.](images/SelectRepository.png)
 
-3. In the upper right corner, find the icon for your account. **Select** the arrow and **select** `Your repositories`. This will take you to a list of your repositories on GitHub including the MOE fork you just made. ![Select Your repositories.](images/YourRepositories.png) 
+3. In the upper right corner, find the icon for your account. **Select** the *arrow* and **select** *Your repositories*. This will take you to a list of your repositories on GitHub including the MOE fork you just made. ![Select Your repositories.](images/YourRepositories.png) 
 
-4. In your list of repositories, **find and select** `omp-education`. ![Select omp-education from your list of repositories.](images/omp-education.png) 
+4. In your list of repositories, **find and select** *omp-education*. ![Select omp-education from your list of repositories.](images/omp-education.png) 
 
 5. Make a clone of your copy of omp-education using Git commandline or GitHub Desktop. 
 	
-a. Follow the direction here for using GitHub Desktop: [https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
+	a. Follow the direction here for using GitHub Desktop: [https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
 	
-b. Using Git commandline, follow these steps:
+	b. Using Git commandline, follow these steps:
 		
 	1. Under the `code` button in your repository, **select** the copy button next to the URL. ![Copy the HTTPs url.](images/Clone.png)
 	2. Open a terminal on your local machine.
 	3. In the terminal, enter `git clone` and paste in the URL you copied from your repository. It should look like: 
-	```
-	➜  ~ git clone https://github.com/SweetJenn23/omp-education.git
-	Cloning into 'omp-education'...
-	remote: Enumerating objects: 72, done.
-	remote: Counting objects: 100% (72/72), done.
-	remote: Compressing objects: 100% (55/55), done.
-	remote: Total 72 (delta 19), reused 36 (delta 5), pack-reused 0
-	Receiving objects: 100% (72/72), 19.58 KiB | 3.26 MiB/s, done.
-	Resolving deltas: 100% (19/19), done.
-	```
+```
+➜  ~ git clone https://github.com/SweetJenn23/omp-education.git
+Cloning into 'omp-education'...
+remote: Enumerating objects: 72, done.
+remote: Counting objects: 100% (72/72), done.
+remote: Compressing objects: 100% (55/55), done.
+remote: Total 72 (delta 19), reused 36 (delta 5), pack-reused 0
+Receiving objects: 100% (72/72), 19.58 KiB | 3.26 MiB/s, done.
+Resolving deltas: 100% (19/19), done.
+```
 	
 Congratulations! You now have a local copy and your own repository to work in and save your changes to. When you are ready to commit your changes, continue to the next section.
 
 ### Submit a pull request to commit changes.
 
 1. Push your changes to your local repository. You can do this with Git commandline or with GitHub Desktop.
-	a. Using GitHub Desktop, follow steps `2. Selecting changes to include in a commit` and `4. Write a commit message and push your changes`: [https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project#2-selecting-changes-to-include-in-a-commit	
+	a. Using GitHub Desktop, follow steps ***2. Selecting changes to include in a commit*** and ***4. Write a commit message and push your changes***: [https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project#2-selecting-changes-to-include-in-a-commit	
 ](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project#2-selecting-changes-to-include-in-a-commit)
-	b. Using Git commandline, you'll need to use the `git add`, `git commit` and `git push` commands. Examples on how these commands can be used can be found here: [https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes)	
+	b. Using Git commandline, you'll need to use the following commands to commit your changes:
+	* `git add`
+	* `git commit`
+	* `git push` 
+	
+	Examples on how these commands can be used can be found here: [https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes)	
 
-2. 
+2. Once your changes are committed to your GitHub repository, it's time to make a pull request. In a browser where you are logged into your omp-education repository, **select** *Pull request* from the tabs and **select** the *New pull request* button. ![Select New pull request.](images/NewPullRequest.png)
+
+3. Review the changes. **Important:** Make sure there is an arrow pointing from your repository to the *openmainframeproject/omp-education* repository. When you are ready, **select** *Create pull request*. ![Compare repository changes.](images/CompareRepositories.png)
+
+4. Add any supporting information for maintainers to support or explain your contributions. **Select** *Create pull request*. ![Add comments and select Create pull request.](images/CreatePullRequest.png) 
+
+5. You'll see that a review is required. Once maintainers have reviewed and approved your contribution, it will be merged into the *openmainframeproject/omp-education* repository. ![Warning messages.](images/ReviewRequired.png)
+
+Congratulations! You've just contributed to the Mainframe Open Education project!
