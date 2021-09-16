@@ -4,6 +4,9 @@
 
 ![Github](https://img.shields.io/github/license/openmainframeproject/omp-education)
 
+## Project Home Page
+
+[Open Mainframe Project Education](https://www.openmainframeproject.org/projects/mainframeopeneducation)
 
 ## Discussion
 
