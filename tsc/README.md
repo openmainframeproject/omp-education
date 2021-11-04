@@ -7,3 +7,5 @@ Voting members of the steering committee:
 - Lauren Valenti
 - Viviane Padua
 - Yvette LaMar
+- Robert Dahlberg
+- Jenn Francis 
