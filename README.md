@@ -34,13 +34,13 @@ One of the following:
 * GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
 
 ### Steps to Fork and Clone repository:
-1. You've made it to the GitHub repository! Find and **select** the *Fork* button at the top. This will allow you to create your own copy of the MOE repository to save your work in. _Note:_ You will need to be signed in to GitHub to complete these steps.![Fork the repository.](images/Fork.png)
+1. You've made it to the GitHub repository! Find and **select** the *Fork* button at the top. This will allow you to create your own copy of the MOE repository to save your work in. _Note:_ You will need to be signed in to GitHub to complete these steps.![Fork the repository.](docs/images/Fork.png)
 
-2. From the pop-up, **select** your repository (you might only have one).![Select your repository.](images/SelectRepository.png)
+2. From the pop-up, **select** your repository (you might only have one).![Select your repository.](docs/images/SelectRepository.png)
 
-3. In the upper right corner, find the icon for your account. **Select** the *arrow* and **select** *Your repositories*. This will take you to a list of your repositories on GitHub including the MOE fork you just made. ![Select Your repositories.](images/YourRepositories.png) 
+3. In the upper right corner, find the icon for your account. **Select** the *arrow* and **select** *Your repositories*. This will take you to a list of your repositories on GitHub including the MOE fork you just made. ![Select Your repositories.](docs/images/YourRepositories.png) 
 
-4. In your list of repositories, **find and select** *omp-education*. ![Select omp-education from your list of repositories.](images/omp-education.png) 
+4. In your list of repositories, **find and select** *omp-education*. ![Select omp-education from your list of repositories.](docs/images/omp-education.png) 
 
 5. Make a clone of your copy of omp-education using Git commandline or GitHub Desktop. 
 	
@@ -48,9 +48,10 @@ One of the following:
 	
 	b. Using Git commandline, follow these steps:
 		
-	1. Under the `code` button in your repository, **select** the copy button next to the URL. ![Copy the HTTPs url.](images/Clone.png)
+	1. Under the `code` button in your repository, **select** the copy button next to the URL. ![Copy the HTTPs url.](docs/images/Clone.png)
 	2. Open a terminal on your local machine.
 	3. In the terminal, enter `git clone` and paste in the URL you copied from your repository. It should look like: 
+
 ```
 ➜  ~ git clone https://github.com/SweetJenn23/omp-education.git
 Cloning into 'omp-education'...
@@ -76,12 +77,12 @@ Congratulations! You now have a local copy and your own repository to work in an
 	
 	Examples on how these commands can be used can be found here: [https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-and-commit-local-changes)	
 
-2. Once your changes are committed to your GitHub repository, it's time to make a pull request. In a browser where you are logged into your omp-education repository, **select** *Pull request* from the tabs and **select** the *New pull request* button. ![Select New pull request.](images/NewPullRequest.png)
+2. Once your changes are committed to your GitHub repository, it's time to make a pull request. In a browser where you are logged into your omp-education repository, **select** *Pull request* from the tabs and **select** the *New pull request* button. ![Select New pull request.](docs/images/NewPullRequest.png)
 
-3. Review the changes. **Important:** Make sure there is an arrow pointing from your repository to the *openmainframeproject/omp-education* repository. When you are ready, **select** *Create pull request*. ![Compare repository changes.](images/CompareRepositories.png)
+3. Review the changes. **Important:** Make sure there is an arrow pointing from your repository to the *openmainframeproject/omp-education* repository. When you are ready, **select** *Create pull request*. ![Compare repository changes.](docs/images/CompareRepositories.png)
 
-4. Add any supporting information for maintainers to support or explain your contributions. **Select** *Create pull request*. ![Add comments and select Create pull request.](images/CreatePullRequest.png) 
+4. Add any supporting information for maintainers to support or explain your contributions. **Select** *Create pull request*. ![Add comments and select Create pull request.](docs/images/CreatePullRequest.png) 
 
-5. You'll see that a review is required. Once maintainers have reviewed and approved your contribution, it will be merged into the *openmainframeproject/omp-education* repository. ![Warning messages.](images/ReviewRequired.png)
+5. You'll see that a review is required. Once maintainers have reviewed and approved your contribution, it will be merged into the *openmainframeproject/omp-education* repository. ![Warning messages.](docs/images/ReviewRequired.png)
 
 Congratulations! You've just contributed to the Mainframe Open Education project!
