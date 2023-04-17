@@ -2,7 +2,7 @@
 
 IT Architect roles and responsibilities are diverse.  These are rarely entry level positions.  They are job responsibilities requiring specific career experiences.  An architect translates the needs of a business into big picture blueprints for implementation.  Architect skills and capabilities are acquired through experiences with specific business experience to be applied to future business technology decisions.  What all architects have in common is methodologies' used to guide the development process and ensure that the final product meets the organization’s specific needs.
 
-### Solution Architecture
+### Solution Architect
 
 Definition: involves the organization of software systems leveraged by a company and is a recognized visionary strategist._<mark style="color:red;">\*\*</mark>_
 

@@ -97,15 +97,6 @@ Category:
     Resources:
 
     Category:
-*   #### MQSeries Administrator_\*\*_
-
-    Definition:
-
-    Skills:
-
-    Resources:
-
-    Category:
 
 ### Systems Programmer_\*\*_
 
