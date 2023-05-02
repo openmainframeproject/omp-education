@@ -35,9 +35,9 @@ Once approved you will be added to the Reviewer list and receive guidance from t
 | ----------------- | ---------------------------- | -------- |
 | Lauren Valenti    | lauren.valenti@broadcom.com  | Lead     |
 | Deborah Carbo     | deborah.carbo@broadcom.com   |          |
-| Viviane Padua     | vipadua@kyndryl.com          |          |
+| Viviane Padua     | vipadua@kyndryl.com          | Lead     |
 | Yvette LaMar      | yla@us.ibm.com               |          |
-| Robert Dahlberg   | dahlbergra@vcu.edu           |          |
+| Robert Dahlberg   | dahlbergra@vcu.edu           | Lead     |
 | Jenn Francis      |                              |          |
 | Guilherme Cartier | gcartier@br.ibm.com          |          |
 | Oleksiy Derbas    | oleksiy.derbas@broadcom.com  |          |
