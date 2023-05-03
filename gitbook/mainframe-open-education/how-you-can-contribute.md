@@ -18,10 +18,10 @@ Click Here - Invitation Link
 
 **Step 2)** Once your access is approved there are two ways of contributing: [**Change Request**](https://docs.gitbook.com/editing-content/editing-pages/change-requests) and [**Discussions**](https://docs.gitbook.com/collaboration/comments). Please review the help documents to understand how these processes work.&#x20;
 
-**Step 3)** When creating a change request, provide a subject name for your request. When submitting content through the change request, provide a high-level description of the content and the name of the content creator.&#x20;
+**Step 3)** When creating a change request first click on the "Edit" button on the top right side of the site page. Next provide a description for your request. The field is located on the top left of the site page after you click "Edit." When submitting content through the change request, provide a high-level description of the content and the name of the content creator.&#x20;
 
-![Start a Change Request by Using the Edit Button at the Top of the Page](../.gitbook/assets/2022-02-17\_10-56-56.jpg)
+<figure><img src="../.gitbook/assets/Click Edit to Start.png" alt="Screenshot showing the Edit button to start a change request"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Updated Change Request Subject0.png" alt=""><figcaption><p>Be Sure to Enter a Subject for Your Request</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Enter Subject Here.png" alt="Screenshot of the field used to describe a new change request"><figcaption></figcaption></figure>
 
 **Note:** Changes requests should be made by page. If you have suggestions to more than a page, it is required to create a Change Request per Page. Otherwise, your Change Request might be rejected.

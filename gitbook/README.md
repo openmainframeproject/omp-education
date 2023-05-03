@@ -19,5 +19,5 @@ Mainframe Open Education 3-Minute Overview
 {% endembed %}
 
 {% hint style="info" %}
-**Connect with other users and developers on Slack #omp-education-project -** [**JOIN US**](https://slack.openmainframeproject.org/) ****&#x20;
+**Connect with other users and developers on Slack #omp-education-project -** [**JOIN US**](https://slack.openmainframeproject.org/)&#x20;
 {% endhint %}
