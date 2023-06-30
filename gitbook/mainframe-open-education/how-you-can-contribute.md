@@ -25,3 +25,7 @@ Click Here - Invitation Link
 <figure><img src="../.gitbook/assets/Enter Subject Here.png" alt="Screenshot of the field used to describe a new change request"><figcaption></figcaption></figure>
 
 **Note:** Changes requests should be made by page. If you have suggestions to more than a page, it is required to create a Change Request per Page. Otherwise, your Change Request might be rejected.
+
+For more detailed information on how to contribute to the project, please download our Contributor Quick Reference Guide below.
+
+{% file src="../.gitbook/assets/Contributor QRG.docx" %}
