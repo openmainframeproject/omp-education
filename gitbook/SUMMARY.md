@@ -40,7 +40,6 @@
   * [IT Business/Software Product Application Development and Support](deeper-dive-in-role-chosen/it-business-software-product-application-development-and-support.md)
   * [IT Software Engineers](deeper-dive-in-role-chosen/it-software-engineers.md)
   * [IT Architects](deeper-dive-in-role-chosen/it-architects.md)
-* [Page 1](page-1.md)
 * [Career Path Opportunities](career-path-opportunities/README.md)
   * [Learning Programs](career-path-opportunities/learning-programs.md)
   * [Job Opportunities](career-path-opportunities/job-opportunities.md)
@@ -51,4 +50,3 @@
   * [Courses, Tutorials, Manuals](additional-community-resources/courses-tutorials-manuals.md)
   * [Education Programs](additional-community-resources/education-programs.md)
   * [IBM Mainframe Timeshare Services](additional-community-resources/ibm-mainframe-timeshare-services.md)
-* [Testing - delete later](testing-delete-later.md)
