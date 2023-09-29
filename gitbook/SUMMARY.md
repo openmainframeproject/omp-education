@@ -4,6 +4,7 @@
   * [How it Works](mainframe-open-education/how-it-works.md)
   * [How You Can Contribute](mainframe-open-education/how-you-can-contribute.md)
   * [What Personas Can Contribute?](mainframe-open-education/what-personas-can-contribute.md)
+  * [How to Earn A Contributor Badge](mainframe-open-education/how-to-earn-a-contributor-badge.md)
   * [MOE Management System](mainframe-open-education/moe-management-system.md)
   * [MOE Events](mainframe-open-education/moe-events.md)
   * [Project Support](mainframe-open-education/project-support.md)
