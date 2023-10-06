@@ -11,7 +11,7 @@ You might not know mainframe, however it is part of your daily routine. Chances 
 * Backend operations of many digital applications&#x20;
 
 {% hint style="info" %}
-Explore more about the [Role of Mainframe Today](role-of-the-mainframe-today.md) and find out why is it so relevant on the current era with hybrid cloud and how it influenced the IT world today
+Explore more about the [Role of Mainframe Today](role-of-the-mainframe-today/) and find out why is it so relevant on the current era with hybrid cloud and how it influenced the IT world today
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=dRzRD3GgDAA" %}
