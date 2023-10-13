@@ -15,6 +15,7 @@
 * [What is a Mainframe Today?](what-is-a-mainframe-today/README.md)
   * [Role of the Mainframe Today](what-is-a-mainframe-today/role-of-the-mainframe-today/README.md)
     * [Enterprise Computing](what-is-a-mainframe-today/role-of-the-mainframe-today/enterprise-computing.md)
+    * [Hybrid Cloud](what-is-a-mainframe-today/role-of-the-mainframe-today/hybrid-cloud.md)
   * [Who Uses the Mainframe and Why](what-is-a-mainframe-today/who-uses-the-mainframe-and-why.md)
   * [Mainframe versus Servers](what-is-a-mainframe-today/mainframe-versus-servers.md)
   * [How the Mainframe Works](what-is-a-mainframe-today/how-the-mainframe-works.md)
