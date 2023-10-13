@@ -2,7 +2,9 @@
 description: Learn what mainframes are and what place they take in your daily life.
 ---
 
-# What is a Mainframe?
+# What is a Mainframe Today?
+
+{% embed url="https://www.youtube.com/watch?v=3rVfUbDsdf8" %}
 
 Mainframes are computers. They are known by their reliability, security, huge capacity, high performance, large amounts of memory and processors.  A mainframe computer can handle many tasks concurrently and is critical to commercial databases, transaction servers, and applications that require high resilience, security, and agility.&#x20;
 
