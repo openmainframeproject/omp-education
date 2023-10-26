@@ -8,9 +8,15 @@ Imagine waking up every morning, reaching for your smartphone, checking your ema
 
 Mainframes aren't just computers; they're the unsung heroes of reliability, security, and performance in the digital world. Think of them as the wise guardians ensuring your online experiences are smooth and secure. They boast massive capacity, juggle multiple tasks effortlessly, and play a vital role in the databases, servers, and applications that power our digital lives.
 
-These machines are the James Bonds of computing—robust, rugged, and always ready for action. You might not have heard about them, but they've been with you, quietly ensuring everything ticks along smoothly, from dawn till dusk, and beyond. Join us on a journey to uncover the hidden marvels of the mainframe, a technological wizardry that's closer to your daily routine than you could ever imagine.
+These machines are the James Bonds of computing—robust, rugged, and always ready for action. You might not have heard about them, but they've been with you, quietly ensuring everything ticks smoothly from dawn till dusk. Join us on a journey to uncover the hidden marvels of the mainframe, a technological wizardry that's closer to your daily routine than you could ever imagine.
 
 Some folks might dismiss mainframes as ancient relics, assuming they're outdated technology. But let's take a moment to unravel the mystery as Rosalind, an IBM fellow, shares her insights on the subject.
+
+<mark style="background-color:blue;">Watch the video "Mainframe Myths Debunked" by Rosalind Radcliffe, and see if you can answer the following questions:</mark>&#x20;
+
+1. <mark style="background-color:blue;">How does the introduction of the Telum processor challenge the perception of mainframes being "old" systems?</mark>
+2. <mark style="background-color:blue;">In what ways does the script debunk the myth that mainframes are "expensive"?</mark>
+3. <mark style="background-color:blue;">How does the transaction processing efficiency of mainframes contribute to their modern capabilities?</mark>
 
 {% embed url="https://www.youtube.com/watch?v=3rVfUbDsdf8" %}
 
