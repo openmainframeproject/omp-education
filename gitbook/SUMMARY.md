@@ -22,7 +22,6 @@
   * [How the Mainframe Works](what-is-a-mainframe-today/how-the-mainframe-works.md)
   * [Mainframe Evolution](what-is-a-mainframe-today/mainframe-evolution.md)
   * [Video: Talk Like a Mainframer](what-is-a-mainframe-today/video-talk-like-a-mainframer.md)
-  * [Video: What is the Mainframe?](what-is-a-mainframe-today/video-what-is-the-mainframe.md)
   * [Video: What is the Mainframe? Mainframe Security Myths](what-is-a-mainframe-today/video-what-is-the-mainframe-mainframe-security-myths.md)
   * [Brief History](what-is-a-mainframe-today/brief-history.md)
 * [Foundational Technology](foundational-technology/README.md)
