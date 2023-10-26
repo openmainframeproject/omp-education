@@ -12,7 +12,7 @@ These machines are the James Bonds of computing—robust, rugged, and always rea
 
 Some folks might dismiss mainframes as ancient relics, assuming they're outdated technology. But let's take a moment to unravel the mystery as Rosalind, an IBM fellow, shares her insights on the subject.
 
-<mark style="background-color:blue;">Watch the video "Mainframe Myths Debunked" by Rosalind Radcliffe, and see if you can answer the following questions:</mark>&#x20;
+<mark style="background-color:blue;">Watch the video "Mainframe Myths Debunked" by Rosalind Radcliffe, and answer the following questions:</mark>&#x20;
 
 1. <mark style="background-color:blue;">How does the introduction of the Telum processor challenge the perception of mainframes being "old" systems?</mark>
 2. <mark style="background-color:blue;">In what ways does the script debunk the myth that mainframes are "expensive"?</mark>
