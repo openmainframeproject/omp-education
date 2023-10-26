@@ -4,7 +4,11 @@ description: >-
   management.
 ---
 
-# Video: Talk Like a Mainframer
+# Get Ready: Talk Like a Mainframer
+
+Ready to embark on the journey of becoming a mainframer? Fantastic! To kickstart your exploration, let's begin by unraveling the language of the mainframe world.&#x20;
+
+In the video below, titled "Talk Like a Mainframer," we'll guide you through 33 popular terms that seasoned mainframers use in their daily discourse. Whether you're a budding enthusiast or a seasoned pro, understanding this unique lexicon is key to navigating the intricate landscape of mainframe technology.&#x20;
 
 {% embed url="https://youtu.be/hwmRsloRAS8" %}
 
