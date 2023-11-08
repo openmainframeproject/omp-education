@@ -1,12 +1,12 @@
 ---
 description: >-
-  Learn about the partnership between Mainframe Open Education and Open
-  Mainframe Project, our community and mission.
+  Learn about the partnership between Mainframe Open Education (MOE) and Open
+  Mainframe Project (OMP), our community and mission.
 cover: .gitbook/assets/MOE Cover page retang.png
 coverY: 0
 ---
 
-# Mainframe Open Education
+# Learn | Contribute to MOE
 
 [Mainframe Open Education (MOE)](https://www.openmainframeproject.org/projects/mainframeopeneducation) is sponsored by the Open Mainframe Project. It is a community partnership that focuses on ‘open sourcing’ mainframe learning roadmaps and community knowledge transfer. The MOE mission is to offer all mainframe users a platform to cultivate skill onboarding that is most critical to future hires and to allow for knowledge sharing and community contribution.&#x20;
 
