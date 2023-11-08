@@ -23,7 +23,7 @@
   * [How the Mainframe Works](what-is-a-mainframe-today/how-the-mainframe-works.md)
   * [Mainframe Evolution](what-is-a-mainframe-today/mainframe-evolution.md)
   * [Get Ready: Talk Like a Mainframer](what-is-a-mainframe-today/get-ready-talk-like-a-mainframer.md)
-  * [Brief History](what-is-a-mainframe-today/brief-history.md)
+  * [An Overview of Mainframe: 1960s to 2010s](what-is-a-mainframe-today/an-overview-of-mainframe-1960s-to-2010s.md)
 * [Foundational Technology](foundational-technology/README.md)
   * [Digital Certificate Badges](foundational-technology/digital-certificate-badges.md)
   * [z/OS Mainframe Practitioner](foundational-technology/z-os-mainframe-practitioner.md)
