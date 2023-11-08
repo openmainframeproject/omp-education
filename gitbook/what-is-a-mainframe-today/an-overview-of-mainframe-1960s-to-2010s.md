@@ -18,6 +18,36 @@ The mainframe's impact on real-time transaction processing in the 1970s laid the
 
 
 
+
+
+The mainframe was the outgrowth of a cultural commitment to responsible computing and architecture built around business needs. IBM's promise, made in 1964, that whatever you wrote for their mainframe would continue to run into the future has been faithfully kept. The ability to run legacy workloads without constant upgrades is a testament to the mainframe's enduring legacy. The 1980s and 1990s were a time of growth, expansion, and response to the challenges posed by distributed computing. The mainframe persisted, adapting to change and providing reliable, secure, and scalable computing.
+
+
+
+
+
+
+
+As the 21st century began, the internet and global commerce expanded exponentially, emphasizing the need for security, reliability, and manageability—the mainframe's forte. Globalization and the push for cloud computing posed challenges, but the mainframe's attributes of security, scalability, and reliability remained unmatched. The introduction of Linux to the mainframe platform showcased its adaptability to modern technologies. The mainframe's role in business computing prevailed as organizations realized its unique capabilities in handling massive amounts of data and transactions.
+
+
+
+
+
+
+
+
+
+The mainframe community anticipates continued growth and relevance in the coming years, with a new generation of professionals entering the field through educational initiatives. The mainframe's ability to provide a secure, scalable, and cost-effective platform positions it as a cornerstone of the IT ecosystem. The future appears bright, with the mainframe offering unlimited opportunities for those interested in business computing. IBM's ongoing investment in the platform ensures that the mainframe will continue to be a vibrant and integral part of the ever-evolving IT landscape.
+
+
+
+
+
+
+
+Here is the full version of the Mainframe story:&#x20;
+
 {% embed url="https://www.youtube.com/watch?v=H_hRcidYj4Y" %}
 Mainframe mission from the 1950s until 21st century and its future.
 {% endembed %}
