@@ -32,13 +32,13 @@ The MOE mission is to offer all mainframe users a platform to cultivate skill on
 
 ### Content Phases
 
-The project was designed based on five initial phases. Our goal is to ensure we have the most relevant information organized in a logical and accessible way for the community. This structure is a starting point where the [personas](welcome-learn-and-contribute-to-moe/what-personas-can-contribute.md) can contribute and collaborate to develop and continuously improve the content library.&#x20;
+The project was designed based on five initial phases. Our goal is to ensure we have the most relevant information organized in a logical and accessible way for the community. This structure is a starting point where the [personas](learn-or-contribute-to-moe/what-personas-can-contribute.md) can contribute and collaborate to develop and continuously improve the content library.&#x20;
 
 For more information about project phases, see more details in the image below.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Five content phases of MOE</p></figcaption></figure>
 
-###
+
 
 ### Join MOE community on Slack:&#x20;
 

@@ -1,11 +1,11 @@
-# How You Can Contribute
+# Start Contributing
 
 We are a community-centric project and welcome the participation and contribution of all members of the mainframe community. Whether you would like to contribute content, or want to discuss existing content and how to improve it, we welcome and encourage the interaction.&#x20;
 
 What type of content can you contribute? Content comes in all forms, the only limitation is that it should be publicly available, attributed to the author, and not violate any copyrights. We welcome links to articles, infographics, courses, videos, blog posts, podcasts and more. All submissions will be reviewed by the MOE team and upon acceptance, merged into the workspace.&#x20;
 
 {% hint style="danger" %}
-Review our [Legal Disclaimer, Copyright and License](legal-disclaimer-copyright-and-license.md) before contributing your content.
+Review our [Legal Disclaimer, Copyright and License](../learn-or-contribute-to-moe/legal-disclaimer-copyright-and-license.md) before contributing your content.
 {% endhint %}
 
 The first step as a contributor is to request editor access to this GitBook workspace. You do that through the invitation link below.&#x20;
