@@ -2,7 +2,7 @@
 
 A digital badge is a simple but great way to acknowledge and share your contributions with your professional circle. You can attach your badge to a website mail signature, or social network, and with one simple click, employers and other interested parties can easily view and verify your contributions.  &#x20;
 
-Each badge has defined "Earning Criteria" and requirements for earning the specific badge. Additional badges will be created so be sure to check back often.  Complete the application for Contributor badge [here](https://docs.google.com/forms/d/1GEPD\_9AUXtoOFGOoYN308SYC40covBLasVJhBzKFG88/viewform?edit\_requested=true).\
+Each badge has defined "Earning Criteria" and requirements for earning the specific badge. Additional badges will be created so be sure to check back often.  \
 \
 **Contributor - Level 1:** &#x20;
 
@@ -22,4 +22,3 @@ Must be a member of [Open Mainframe Education](https://openmainframeproject.org/
 3. Demonstrate engagement via content/has engaged with content in the form of likes, follows and meaningful comments.
 4. Minimum 2 years as a contributor and active member
 
-Complete the application badge form [here](https://docs.google.com/forms/d/1GEPD\_9AUXtoOFGOoYN308SYC40covBLasVJhBzKFG88/viewform?edit\_requested=true). Once approved, you will receive your badge from the Mainframe Open Education Core Team.
