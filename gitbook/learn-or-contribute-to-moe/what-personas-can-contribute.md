@@ -4,7 +4,7 @@ description: >-
   learning experience.
 ---
 
-# What Personas Can Contribute?
+# Who Can Contribute?
 
 ### Students&#x20;
 
