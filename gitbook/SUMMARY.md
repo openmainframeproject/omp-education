@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome: Learn & Contribute to MOE](README.md)
-  * [How to Log In](welcome-learn-and-contribute-to-moe/how-to-log-in.md)
-  * [Start Contributing](welcome-learn-and-contribute-to-moe/start-contributing.md)
+  * [Contributor Log In](welcome-learn-and-contribute-to-moe/contributor-log-in.md)
   * [What Personas Can Contribute?](learn-or-contribute-to-moe/what-personas-can-contribute.md)
   * [How to Earn A Contributor Badge](learn-or-contribute-to-moe/how-to-earn-a-contributor-badge.md)
   * [MOE Management System](learn-or-contribute-to-moe/moe-management-system.md)
