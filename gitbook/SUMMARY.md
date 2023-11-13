@@ -2,7 +2,7 @@
 
 * [Welcome: Learn & Contribute to MOE](README.md)
   * [Contributor Log In](welcome-learn-and-contribute-to-moe/contributor-log-in.md)
-  * [What Personas Can Contribute?](learn-or-contribute-to-moe/what-personas-can-contribute.md)
+  * [Who Can Contribute?](welcome-learn-and-contribute-to-moe/who-can-contribute.md)
   * [How to Earn A Contributor Badge](learn-or-contribute-to-moe/how-to-earn-a-contributor-badge.md)
   * [MOE Management System](learn-or-contribute-to-moe/moe-management-system.md)
   * [MOE Events](learn-or-contribute-to-moe/moe-events.md)
