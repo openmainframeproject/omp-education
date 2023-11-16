@@ -2,9 +2,11 @@
 
 A digital badge is a simple but great way to acknowledge and share your contributions with your professional circle. You can attach your badge to a website, mail signature, or social network, and with one simple click, employers and other interested parties can easily view and verify your contributions.  &#x20;
 
-Each badge has defined "Earning Criteria" and requirements for earning the specific badge. Additional badges will be created so be sure to check back often.  \
-\
-**Contributor - Level 1:** &#x20;
+Each badge has defined "Earning Criteria" and requirements for earning the specific badge. Additional badges will be created so be sure to check back often. &#x20;
+
+
+
+### Contributor: Level 1
 
 Must be a member of [Open Mainframe Education](https://openmainframeproject.org/projects/mainframe-open-education/), engaged with the community via our channels (Slack channels, Monthly Meetings and Comments on Gitbook) and who has completed the following activities:
 
@@ -12,8 +14,9 @@ Must be a member of [Open Mainframe Education](https://openmainframeproject.org/
 2. Collaborate with other contributors and be part of [1 MOE ](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/mainframe-open-education/reviewer-list)[Gitbook](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/mainframe-open-education/reviewer-list)[ content review ](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/mainframe-open-education/reviewer-list)from other contributors.
 3. Demonstrate engagement via content/has engaged with content in the form of likes, follows and meaningful comments.
 
-\
-**Contributor - Level 2:**
+
+
+### Contributor - Level 2
 
 Must be a member of [Open Mainframe Education](https://openmainframeproject.org/projects/mainframe-open-education/), engaged with the community via our channels (Slack channels, Monthly Meeting and Comments on Gitbook) and who has completed the following activities:
 
