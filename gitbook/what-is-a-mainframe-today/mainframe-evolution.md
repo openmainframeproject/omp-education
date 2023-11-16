@@ -1,5 +1,8 @@
 ---
-description: Learn how mainframe evolved through the years.
+description: >-
+  Mainframe has evolved from S/360 till z16 and has been always relevant.
+  Current days mainframe supports all the technologies and is the most
+  sophisticated platform on the planet.
 ---
 
 # Mainframe Evolution
