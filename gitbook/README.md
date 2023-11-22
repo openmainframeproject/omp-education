@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn about Mainframe Open Education (MOE), our mission, MOE project phases,
-  and our community.
+  Learn about the Mainframe Open Education (MOE) project, including our mission,
+  MOE project phases, our community, and more.
 cover: .gitbook/assets/MOE Cover page retang.png
 coverY: 0
 ---
