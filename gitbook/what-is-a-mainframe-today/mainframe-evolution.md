@@ -7,4 +7,5 @@ description: >-
 
 # Mainframe Evolution
 
-As you saw in the brief history and timeline topic, mainframe has been around since 1950s, that’s why, if you had already heard about mainframe it may sound like something old. Others might have never heard about mainframe. Mainframe is a growth area, since its beginning with the contribution to the NASA studies, until today supporting most of our daily transactions.
+As highlighted in the brief history and timeline section, the mainframe has a legacy dating back to the 1950s. While its long presence might give the impression of antiquity, it remains a dynamic and evolving field. Some may be familiar with mainframes, associating them with history, while others might be encountering the term for the first time. Despite its age, the mainframe continues to be a thriving domain, from its early contributions to NASA studies to its contemporary role in facilitating a significant portion of our daily transactions.
+

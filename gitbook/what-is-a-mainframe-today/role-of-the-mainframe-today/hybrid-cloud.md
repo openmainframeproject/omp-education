@@ -17,3 +17,7 @@ In the intricate tapestry of modern computing, the concept of Hybrid Cloud stand
 
 {% embed url="https://mainframe.broadcom.com/blog/future-hybrid-cloud?hsCtaTracking=e0cb8e80-1faa-4035-a5cb-e2ba9beb3965%7C1de04ba0-7832-48d9-a025-20126f52290a" %}
 
+
+
+<figure><img src="../../.gitbook/assets/Mainframe modernization (1).PNG" alt=""><figcaption><p>As highlighted in the brief history and timeline section, the mainframe has a legacy dating back to the 1950s. While its long presence might give the impression of antiquity, it remains a dynamic and evolving field. Some may be familiar with mainframes, associating them with history, while others might be encountering the term for the first time. Despite its age, the mainframe continues to be a thriving domain, from its early contributions to NASA studies to its contemporary role in facilitating a significant portion of our daily transactions.  Source: Keys to mainframe transformation and application modernization by Kyndryl</p></figcaption></figure>
+
