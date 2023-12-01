@@ -19,6 +19,8 @@ Some folks might dismiss mainframes as ancient relics, assuming they're outdated
 3. <mark style="background-color:blue;">How does the transaction processing efficiency of mainframes contribute to their modern capabilities?</mark>
 
 {% embed url="https://www.youtube.com/watch?v=3rVfUbDsdf8" %}
+Mainframe Myths Debunked in 5 Minutes
+{% endembed %}
 
 \
 \
