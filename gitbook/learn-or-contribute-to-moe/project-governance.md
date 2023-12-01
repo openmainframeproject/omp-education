@@ -24,7 +24,7 @@ The Editor role is the starting role for anyone participating in the project and
 
 The Reviewer role enables the contributor to approve Change Requests, but also comes with the responsibility of being a responsible leader in the community.
 
-The current list of active Reviewer can be seen at the [Reviewer List](reviewer-list.md).
+The current list of active Reviewer can be seen at the [Reviewer List](../reviewer-list.md).
 
 #### Process for becoming a Reviewer
 
@@ -63,4 +63,4 @@ This project, just like all of open source, is a global community. In addition t
 * Be respectful of time and language differences between the community members
 * Ensure tools are able to be used by community members regardless of their region
 
-If you have concerns about communication challenges for this project, [please contact a Reviewer](reviewer-list.md).
+If you have concerns about communication challenges for this project, [please contact a Reviewer](../reviewer-list.md).

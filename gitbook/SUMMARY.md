@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome: Learn & Contribute to MOE](README.md)
+  * [MOE Vision, Mission and Content Phases](welcome-learn-and-contribute-to-moe/moe-vision-mission-and-content-phases.md)
   * [Contributor Log In](welcome-learn-and-contribute-to-moe/contributor-log-in.md)
   * [Who Can Contribute?](learn-or-contribute-to-moe/what-personas-can-contribute.md)
   * [Earn A Contributor Badge](welcome-learn-and-contribute-to-moe/earn-a-contributor-badge.md)
@@ -10,7 +11,8 @@
   * [Legal Disclaimer, Copyright and License](learn-or-contribute-to-moe/legal-disclaimer-copyright-and-license.md)
   * [Code of Conduct](learn-or-contribute-to-moe/code-of-conduct.md)
   * [Project Governance](learn-or-contribute-to-moe/project-governance.md)
-  * [Reviewer List](learn-or-contribute-to-moe/reviewer-list.md)
+  * [Why MOE](welcome-learn-and-contribute-to-moe/why-moe.md)
+* [Reviewer List](reviewer-list.md)
 * [What is a Mainframe Today?](what-is-a-mainframe-today/README.md)
   * [Role of the Mainframe Today](what-is-a-mainframe-today/role-of-the-mainframe-today/README.md)
     * [Enterprise Computing](what-is-a-mainframe-today/role-of-the-mainframe-today/enterprise-computing.md)
