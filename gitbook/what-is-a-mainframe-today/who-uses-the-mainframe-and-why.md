@@ -4,11 +4,15 @@ description: Learn how and why mainframe is used by businesses.
 
 # Who Uses the Mainframe and Why
 
-You might not know the mainframe, however, it is part of your daily routine. Chances are you are not a direct user of mainframes. Still, you are an end user of most of the financial, enterprise, retail, and data management transactions that is taking place throughout the day. All types and sizes of businesses and organizations can leverage mainframe as the technology to support your business. The most common are:
+You might not know the mainframe, however, it is part of your daily routine.  Chances are you are not a direct user of mainframes. Still, you are an end user of most of the financial, enterprise, retail, and data management transactions that are taking place throughout the day. Given how competitive markets are and the wide variety of services/providers available to clients, one unavailability or transaction denied might be a trigger for a client to switch for good to another competitor.
+
+Let's imagine a practical example from an end user perspective:  as a consumer, you probably hold more than a credit card - still you have your favorite option used on a regular base. If you happen to experience a situation where your main card does not complete a transaction in an important moment, you tend to offer one of your other cards. If the new transaction process works well, you get satisfied - and chances are high that you will keep using this card which delivers a smooth purchase experience. Imagine now the other side of this story: would you like to be the company whose transaction experienced problems? This is definitely a bad nightmare scenario for a transaction credit card company.
+
+All types and sizes of businesses and organizations can leverage mainframe as the foundation technology to support their business, specially for their mission-critical applications. The most common are:
 
 * Big organizations that manage enterprise-wide mission-critical ERP operations
 * Banks that handle trillions of transactions
-* Backend operations of many digital applications&#x20;
+* Backend operations of many digital applications
 
 We invite you to watch the video below to understand why enterprises use the mainframe, the key differences between the mainframe and other platforms, and the different roles and personas in the mainframe world. It shows you the enduring significance of the mainframe in technology's evolving landscape, showcasing its resilience and pivotal role in today's business strategies. With a staggering 76 percent acknowledgment from business leaders and projections indicating a robust 63 percent growth in MIPS, the mainframe remains a foundational element in IT.&#x20;
 
