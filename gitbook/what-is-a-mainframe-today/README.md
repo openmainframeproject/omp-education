@@ -4,9 +4,15 @@ description: Learn what mainframes are and what place they take in your daily li
 
 # What is a Mainframe Today?
 
-Imagine waking up every morning, reaching for your smartphone, checking your email, and sipping on your favorite coffee. Little do you know, a silent powerhouse called a mainframe is working behind the scenes to make it all happen seamlessly.
+Imagine waking up every morning, reaching for your smartphone, checking your email, and sipping on your favourite coffee. Little do you know, a silent powerhouse called a mainframe is working behind the scenes to make it all happen seamlessly. Think of a mainframe as the superhero of computers, capable of handling massive amounts of data and transactions.
 
-Mainframes aren't just computers; they're the unsung heroes of reliability, security, and performance in the digital world. Think of them as the wise guardians ensuring your online experiences are smooth and secure. They boast massive capacity, juggle multiple tasks effortlessly, and play a vital role in the databases, servers, and applications that power our digital lives.
+While they might not be as flashy or portable as your smartphone, these machines power many of the things we rely on every day. Imagine all of the banking transactions, airline reservations, and government records that are moving around the world in a moment. That's the power of the mainframe!
+
+Here are some real-life examples of where you might encounter mainframes:
+
+* When you swipe your credit card, the mainframe verifies your information and approves the transaction in milliseconds.
+* When you book a flight, your reservation is processed and your seat is confirmed, thanks to the mainframe's lightning-fast speed.
+* When you browse a massive online store, the mainframe retrieves millions of products and displays them on your screen in seconds.
 
 These machines are the James Bonds of computing—robust, rugged, and always ready for action. You might not have heard about them, but they've been with you, quietly ensuring everything ticks smoothly from dawn till dusk. Join us on a journey to uncover the hidden marvels of the mainframe, a technological wizardry that's closer to your daily routine than you could ever imagine.
 

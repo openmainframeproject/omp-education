@@ -1,5 +1,8 @@
 ---
-description: "Mainframe has evolved from S/360 to z16, remaining relevant throughout its journey. Currently mainframe supports many\_key technologies and is the most sophisticated platform on the planet."
+description: >-
+  Mainframe has evolved from S/360 till z16 and has been always relevant.
+  Current days mainframe supports all the technologies and is the most
+  sophisticated platform on the planet.
 ---
 
 # Mainframe Evolution
