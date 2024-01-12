@@ -53,7 +53,33 @@ For your reference, here are the terms mentioned in the video above:&#x20;
 z/OS dictionary&#x20;
 {% endembed %}
 
+````json
+---
 
+Define a variable `x` equal to 10.
+
+```js
+var x =
+```
+
+```js
+var x = 10;
+```
+
+```js
+assert(x == 10);
+```
+
+```js
+// This is context code available everywhere
+// The user will be able to call magicFunc in his code
+function magicFunc() {
+    return 3;
+}
+```
+
+---
+````
 
 \---
 
