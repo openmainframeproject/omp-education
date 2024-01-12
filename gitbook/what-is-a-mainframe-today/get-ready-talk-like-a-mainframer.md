@@ -55,7 +55,7 @@ z/OS dictionary&#x20;
 
 
 
-```javascript
+```
 ---
 
 Here is the introduction for the quiz
