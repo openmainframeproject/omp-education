@@ -53,20 +53,7 @@ For your reference, here are the terms mentioned in the video above:&#x20;
 z/OS dictionary&#x20;
 {% endembed %}
 
-\---
-
-Here is the introduction
-
-This is Question 1:
-
-* [x] &#x20;This is the correct answer
-* [ ] This is the wrong answer
-
-> Help
-
-\---
-
-```markup
+```html
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
