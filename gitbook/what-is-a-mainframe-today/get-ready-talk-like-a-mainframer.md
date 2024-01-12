@@ -53,34 +53,6 @@ For your reference, here are the terms mentioned in the video above:&#x20;
 z/OS dictionary&#x20;
 {% endembed %}
 
-````json
----
-
-Define a variable `x` equal to 10.
-
-```js
-var x =
-```
-
-```js
-var x = 10;
-```
-
-```js
-assert(x == 10);
-```
-
-```js
-// This is context code available everywhere
-// The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
-}
-```
-
----
-````
-
 \---
 
 Here is the introduction
@@ -94,23 +66,46 @@ This is Question 1:
 
 \---
 
-```
----
-
-Here is the introduction for the quiz
-
-This is Question 1:
-- [x] This is the proposition 1 (the correct one)
-- [ ] This is the proposition 2
-
-> This is a help message when the answer to question 1 is wrong
-
-This is Question 2:
-- [ ] This is the proposition 1
-- [x] This is the proposition 2 (correct)
-- [x] This is the proposition 3 (correct)
-
-> This is a help message when the answer to question 2 is wrong
-
----
+```markup
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+    <question>
+        <p>This is multiple dropdown quiz, in each dropdown select a correct number corresponding to the dropdown's order</p>
+        <answer>
+            <option correct>First</option>
+            <option>Second</option>
+            <option>Third</option>
+            <option>Fourth</option>
+        </answer>
+        <answer>
+            <option>First</option>
+            <option correct>Second</option>
+            <option>Third</option>
+            <option>Fourth</option>
+        </answer>
+        <answer>
+            <option>First</option>
+            <option>Second</option>
+            <option correct>Third</option>
+            <option>Fourth</option>
+        </answer>
+        <answer>
+            <option>First</option>
+            <option>Second</option>
+            <option>Third</option>
+            <option correct>Fourth</option>
+        </answer>
+    </question>
+</quiz>
 ```
