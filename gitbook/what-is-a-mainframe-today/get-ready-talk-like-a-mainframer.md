@@ -54,6 +54,7 @@ z/OS dictionary&#x20;
 {% endembed %}
 
 ```html
+---
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -95,4 +96,5 @@ z/OS dictionary&#x20;
         </answer>
     </question>
 </quiz>
+---
 ```
