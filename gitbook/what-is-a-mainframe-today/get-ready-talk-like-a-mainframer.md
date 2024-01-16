@@ -53,7 +53,7 @@ For your reference, here are the terms mentioned in the video above:&#x20;
 z/OS dictionary&#x20;
 {% endembed %}
 
-```xml
+```
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -95,4 +95,8 @@ z/OS dictionary&#x20;
         </answer>
     </question>
 </quiz>
+```
+
+```
+// Some code
 ```
