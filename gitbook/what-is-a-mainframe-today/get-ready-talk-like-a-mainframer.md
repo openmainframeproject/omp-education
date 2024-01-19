@@ -55,7 +55,7 @@ z/OS dictionary&#x20;
 
 <details>
 
-<summary>The sky is blue. <br><em><mark style="color:blue;">Click the twisty-down (>) to see the answer.</mark></em><br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> True <br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> False</summary>
+<summary>The sky is blue. <br><em><mark style="color:blue;">Click the twisty-down (>) to see the answer.</mark></em><br><span data-gb-custom-inline data-tag="emoji" data-code="1f518">🔘</span> True <br><span data-gb-custom-inline data-tag="emoji" data-code="1f518">🔘</span> False<br></summary>
 
 Yes!  The sky is blue.
 
@@ -63,22 +63,23 @@ Yes!  The sky is blue.
 
 </details>
 
-{% embed url="https://forms.gle/tDH43FJCXLLEub5o6" %}
-
 {% tabs %}
 {% tab title="Checkpoint" %}
 
 
 The sky is blue.
 
-* [ ] True
-* [ ] False
+:radio\_button:True
+
+:radio\_button:False
 {% endtab %}
 
 {% tab title="Answer" %}
 The sky is always blue unless it's cloudy or raining.
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://forms.gle/tDH43FJCXLLEub5o6" %}
 
 ```json
 <quiz name="Gitbook Quiz">
