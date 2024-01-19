@@ -53,6 +53,33 @@ For your reference, here are the terms mentioned in the video above:&#x20;
 z/OS dictionary&#x20;
 {% endembed %}
 
+<details>
+
+<summary>The sky is blue. <br><em><mark style="color:blue;">Click the twisty-down (>) to see the answer.</mark></em><br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> True <br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> False</summary>
+
+Yes!  The sky is blue.
+
+
+
+</details>
+
+{% embed url="https://forms.gle/tDH43FJCXLLEub5o6" %}
+
+{% tabs %}
+{% tab title="Checkpoint" %}
+
+
+The sky is blue.
+
+* [ ] True
+* [ ] False
+{% endtab %}
+
+{% tab title="Answer" %}
+The sky is always blue unless it's cloudy or raining.
+{% endtab %}
+{% endtabs %}
+
 ```json
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -96,29 +123,6 @@ z/OS dictionary&#x20;
     </question>
 </quiz>
 ```
-
-<details>
-
-<summary>The sky is blue. <em>Click the twisty-down (>) to see the answer.</em><br>[  ] True<br>[  ] False</summary>
-
-Yes!  The sky is blue.
-
-
-
-</details>
-
-{% embed url="https://forms.gle/tDH43FJCXLLEub5o6" %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>The sky is blue. </td><td><ul class="contains-task-list"><li><input type="checkbox">True</li><li><input type="checkbox">False</li></ul></td><td>Yes! Of course the sky is blue - unless it's cloudy or rainy.</td></tr></tbody></table>
-
-> The sky is blue.
->
-> * [ ] True
-> * [ ] False
-
-{% hint style="info" %}
-Of course
-{% endhint %}
 
 ```javascript
 ---
