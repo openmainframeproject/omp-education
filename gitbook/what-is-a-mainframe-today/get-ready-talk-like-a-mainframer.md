@@ -55,7 +55,7 @@ z/OS dictionary&#x20;
 
 <details>
 
-<summary>The sky is blue. <br><em><mark style="color:blue;">Click the twisty-down (>) to see the answer.</mark></em><br><span data-gb-custom-inline data-tag="emoji" data-code="1f518">🔘</span> True <br><span data-gb-custom-inline data-tag="emoji" data-code="1f518">🔘</span> False<br></summary>
+<summary>The sky is blue. <br><em><mark style="color:blue;">Click the twisty-down (>) to see the answer.</mark></em><br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> True <br><span data-gb-custom-inline data-tag="emoji" data-code="1f532">🔲</span> False<br></summary>
 
 Yes!  The sky is blue.
 
@@ -69,9 +69,9 @@ Yes!  The sky is blue.
 
 The sky is blue.
 
-:radio\_button:True
+:black\_square\_button: True
 
-:radio\_button:False
+:black\_square\_button: False
 {% endtab %}
 
 {% tab title="Answer" %}
