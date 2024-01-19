@@ -99,7 +99,7 @@ z/OS dictionary&#x20;
 
 <details>
 
-<summary>The sky is blue. <em>Click the twisty-down (>) to see the answer.</em><br>[ ] True<br>[ ] False</summary>
+<summary>The sky is blue. <em>Click the twisty-down (>) to see the answer.</em><br>[  ] True<br>[  ] False</summary>
 
 Yes!  The sky is blue.
 
@@ -110,6 +110,15 @@ Yes!  The sky is blue.
 {% embed url="https://forms.gle/tDH43FJCXLLEub5o6" %}
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>The sky is blue. </td><td><ul class="contains-task-list"><li><input type="checkbox">True</li><li><input type="checkbox">False</li></ul></td><td>Yes! Of course the sky is blue - unless it's cloudy or rainy.</td></tr></tbody></table>
+
+> The sky is blue.
+>
+> * [ ] True
+> * [ ] False
+
+{% hint style="info" %}
+Of course
+{% endhint %}
 
 ```javascript
 ---
